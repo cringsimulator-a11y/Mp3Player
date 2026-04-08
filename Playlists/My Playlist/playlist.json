@@ -1,0 +1,19 @@
+{
+  "name": "My Playlist",
+  "description": "A curated playlist. Replace with your own description.",
+  "coverImage": "https://example.com/playlist-cover.jpg",
+  "createdAt": "2024-01-01",
+  "tags": [
+    "vibes",
+    "daily"
+  ],
+  "songs": [
+    {
+      "id": "song-001",
+      "albumRef": "Sample Album",
+      "filename": "01-sample-track.mp3",
+      "title": "Sample Track",
+      "artist": "Your Name"
+    }
+  ]
+}
