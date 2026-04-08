@@ -1,0 +1,16 @@
+{
+  "songs": [
+    {
+      "id": "song-001",
+      "filename": "01-sample-track.mp3",
+      "title": "Sample Track",
+      "artist": "Your Name",
+      "duration": 210,
+      "lyrics": "These are placeholder lyrics.\nReplace with the actual song lyrics.\nLine by line, verse by verse.",
+      "description": "A short description of this track.",
+      "bpm": 120,
+      "key": "C major",
+      "mood": "chill"
+    }
+  ]
+}
