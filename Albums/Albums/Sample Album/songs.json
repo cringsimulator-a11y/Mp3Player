@@ -3,12 +3,12 @@
     {
       "id": "song-001",
       "filename": "01-sample-track.mp3",
-      "title": "Sample Track",
-      "artist": "Your Name",
+      "title": "Rasputin",
+      "artist": "Arnav obviously",
       "duration": 210,
-      "lyrics": "These are placeholder lyrics.\nReplace with the actual song lyrics.\nLine by line, verse by verse.",
-      "description": "A short description of this track.",
-      "bpm": 120,
+      "lyrics": "No lyrics for you :).",
+      "description": "Nah no desc.",
+      "bpm": 192,
       "key": "C major",
       "mood": "chill"
     }
