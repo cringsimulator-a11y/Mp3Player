@@ -1,8 +1,8 @@
 {
-  "name": "My Playlist",
-  "description": "A curated playlist. Replace with your own description.",
-  "coverImage": "https://example.com/playlist-cover.jpg",
-  "createdAt": "2024-01-01",
+  "name": "Arnav's Playlist prolly",
+  "description": "Mah Playlist, dont touch.",
+  "coverImage": "https://i.pinimg.com/736x/96/91/54/969154d45a9d6820faefdc8b2cde53eb.jpg",
+  "createdAt": "2026-04-08",
   "tags": [
     "vibes",
     "daily"
@@ -10,7 +10,7 @@
   "songs": [
     {
       "id": "song-001",
-      "albumRef": "Sample Album",
+      "albumRef": "Non",
       "filename": "01-sample-track.mp3",
       "title": "Sample Track",
       "artist": "Your Name"
