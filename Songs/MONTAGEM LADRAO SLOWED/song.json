@@ -1,6 +1,6 @@
 {
     "name": "MONTAGEM LADRAO SLOWED.mp3",
-    "artist": "Placeholder Artist",
+    "artist": "Artist Placeholder",
     "artistImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8eNEH92eGgkjS74ItVzSzQUX2AaJkQ4cPGA&s",
     "albumRef": null,
     "description": "Track: MONTAGEM LADRAO SLOWED",
@@ -10,5 +10,6 @@
     "genre": "Music",
     "mood": "Unknown",
     "bpm": 0,
-    "key": "Unknown"
+    "key": "Unknown",
+    "_last_updated": 1775669942
 }
