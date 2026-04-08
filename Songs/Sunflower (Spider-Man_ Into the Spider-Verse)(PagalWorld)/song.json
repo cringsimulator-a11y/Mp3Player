@@ -1,15 +1,15 @@
 {
     "name": "Sunflower (Spider-Man_ Into the Spider-Verse)(PagalWorld).mp3",
-    "artist": "Artist Placeholder",
-    "artistImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8eNEH92eGgkjS74ItVzSzQUX2AaJkQ4cPGA&s",
+    "artist": "Unknown Artist",
+    "artistImage": "https://www.coverartmarket.com/cde/images/zsunflower.jpg",
     "albumRef": null,
     "description": "Track: Sunflower (Spider-Man_ Into the Spider-Verse)(PagalWorld)",
     "lyrics": "Lyrics not available.",
-    "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8eNEH92eGgkjS74ItVzSzQUX2AaJkQ4cPGA&s",
+    "coverImage": "https://www.coverartmarket.com/cde/images/zsunflower.jpg",
     "year": 2024,
     "genre": "Music",
-    "mood": "Unknown",
-    "bpm": 0,
-    "key": "Unknown",
-    "_last_updated": 1775669971
+    "mood": "Energetic",
+    "bpm": 128,
+    "key": "C Major",
+    "updated_at": "1775670063.998383"
 }
