@@ -1,15 +1,15 @@
 {
     "name": "Raatan Lambiyaan.mp3",
-    "artist": "Artist Placeholder",
-    "artistImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8eNEH92eGgkjS74ItVzSzQUX2AaJkQ4cPGA&s",
+    "artist": "Unknown Artist",
+    "artistImage": "https://c.saavncdn.com/089/Ratan-Lambiyaan-English-2022-20220915164425-500x500.jpg",
     "albumRef": null,
     "description": "Track: Raatan Lambiyaan",
     "lyrics": "Lyrics not available.",
-    "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8eNEH92eGgkjS74ItVzSzQUX2AaJkQ4cPGA&s",
+    "coverImage": "https://c.saavncdn.com/089/Ratan-Lambiyaan-English-2022-20220915164425-500x500.jpg",
     "year": 2024,
     "genre": "Music",
-    "mood": "Unknown",
-    "bpm": 0,
-    "key": "Unknown",
-    "_last_updated": 1775669958
+    "mood": "Energetic",
+    "bpm": 128,
+    "key": "C Major",
+    "updated_at": "1775670053.9689784"
 }
