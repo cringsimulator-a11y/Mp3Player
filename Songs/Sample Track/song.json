@@ -1,0 +1,14 @@
+{
+  "name": "Sample Track",
+  "artist": "Your Name",
+  "artistImage": "https://example.com/artist.jpg",
+  "albumRef": null,
+  "description": "A standalone single. Replace with actual song details.",
+  "lyrics": "Placeholder lyrics here.\nReplace with actual lyrics.",
+  "coverImage": "https://example.com/single-cover.jpg",
+  "year": 2024,
+  "genre": "Indie",
+  "mood": "energetic",
+  "bpm": 128,
+  "key": "A minor"
+}
