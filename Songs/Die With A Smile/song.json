@@ -1,14 +1,14 @@
 {
     "name": "Die With A Smile.mp3",
-    "artist": "Unknown Artist",
+    "artist": "Artist Name",
     "artistImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8eNEH92eGgkjS74ItVzSzQUX2AaJkQ4cPGA&s",
     "albumRef": null,
-    "description": "A song about finding peace in the inevitable.",
-    "lyrics": "I don't want to fade away,\nInto the night, without a say.\nI want to die with a smile,\nKnowing I lived for a while.",
+    "description": "A detailed description of the song.",
+    "lyrics": "Full lyrics here...",
     "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8eNEH92eGgkjS74ItVzSzQUX2AaJkQ4cPGA&s",
-    "year": 2023,
-    "genre": "Alternative",
-    "mood": "Melancholic",
+    "year": 2024,
+    "genre": "Pop",
+    "mood": "Energetic",
     "bpm": 120,
-    "key": "C minor"
+    "key": "C Major"
 }
