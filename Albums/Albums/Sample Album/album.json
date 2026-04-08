@@ -1,11 +1,11 @@
 {
-  "name": "Sample Album",
-  "artist": "Your Name",
+  "name": "Mah album",
+  "artist": "Arnav i think",
   "artistImage": "https://example.com/artist.jpg",
   "description": "This is a placeholder album. Replace with your actual album details.",
-  "albumImage": "https://example.com/album-cover.jpg",
+  "albumImage": "https://i.pinimg.com/736x/aa/3e/66/aa3e664a499b1019405ab1e25789ec55.jpg",
   "year": 2024,
-  "genre": "Indie",
+  "genre": "Indie?",
   "tags": [
     "chill",
     "ambient"
