@@ -1,15 +1,15 @@
 {
     "name": "Suzume.mp3",
-    "artist": "Artist Placeholder",
-    "artistImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8eNEH92eGgkjS74ItVzSzQUX2AaJkQ4cPGA&s",
+    "artist": "Unknown Artist",
+    "artistImage": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7412a90c-431c-432c-8af1-53b740be1002/dg8a6v4-90a162b0-dbab-435b-8ba9-f1f035fc7a2a.jpg/v1/fill/w_280,h_350,q_70,strp/suzuno_sama_by_miyuki_tsukiyono_dg8a6v4-350t.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc0MTJhOTBjLTQzMWMtNDMyYy04YWYxLTUzYjc0MGJlMTAwMlwvZGc4YTZ2NC05MGExNjJiMC1kYmFiLTQzNWItOGJhOS1mMWYwMzVmYzdhMmEuanBnIiwiaGVpZ2h0IjoiPD0xMDAwIiwid2lkdGgiOiI8PTgwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC83NDEyYTkwYy00MzFjLTQzMmMtOGFmMS01M2I3NDBiZTEwMDJcL21peXVraS10c3VraXlvbm8tNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0.xECCVXyE9YlKSSqcyLqyWEz4pNSV87G6h_6G930zq1o",
     "albumRef": null,
     "description": "Track: Suzume",
     "lyrics": "Lyrics not available.",
-    "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8eNEH92eGgkjS74ItVzSzQUX2AaJkQ4cPGA&s",
+    "coverImage": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7412a90c-431c-432c-8af1-53b740be1002/dg8a6v4-90a162b0-dbab-435b-8ba9-f1f035fc7a2a.jpg/v1/fill/w_280,h_350,q_70,strp/suzuno_sama_by_miyuki_tsukiyono_dg8a6v4-350t.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc0MTJhOTBjLTQzMWMtNDMyYy04YWYxLTUzYjc0MGJlMTAwMlwvZGc4YTZ2NC05MGExNjJiMC1kYmFiLTQzNWItOGJhOS1mMWYwMzVmYzdhMmEuanBnIiwiaGVpZ2h0IjoiPD0xMDAwIiwid2lkdGgiOiI8PTgwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC83NDEyYTkwYy00MzFjLTQzMmMtOGFmMS01M2I3NDBiZTEwMDJcL21peXVraS10c3VraXlvbm8tNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0.xECCVXyE9YlKSSqcyLqyWEz4pNSV87G6h_6G930zq1o",
     "year": 2024,
     "genre": "Music",
-    "mood": "Unknown",
-    "bpm": 0,
-    "key": "Unknown",
-    "_last_updated": 1775669974
+    "mood": "Energetic",
+    "bpm": 128,
+    "key": "C Major",
+    "updated_at": "1775670066.6304467"
 }
