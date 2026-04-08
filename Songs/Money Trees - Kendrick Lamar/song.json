@@ -1,15 +1,15 @@
 {
     "name": "Money Trees - Kendrick Lamar.mp3",
-    "artist": "Artist Placeholder",
-    "artistImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8eNEH92eGgkjS74ItVzSzQUX2AaJkQ4cPGA&s",
+    "artist": "Money Trees",
+    "artistImage": "https://cdn-images.dzcdn.net/images/cover/b5be27644d505bad7bdb516fe4165475/1900x1900-000000-80-0-0.jpg",
     "albumRef": null,
-    "description": "Track: Money Trees - Kendrick Lamar",
+    "description": "Track: Kendrick Lamar",
     "lyrics": "Lyrics not available.",
-    "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8eNEH92eGgkjS74ItVzSzQUX2AaJkQ4cPGA&s",
+    "coverImage": "https://cdn-images.dzcdn.net/images/cover/b5be27644d505bad7bdb516fe4165475/1900x1900-000000-80-0-0.jpg",
     "year": 2024,
     "genre": "Music",
-    "mood": "Unknown",
-    "bpm": 0,
-    "key": "Unknown",
-    "_last_updated": 1775669939
+    "mood": "Energetic",
+    "bpm": 128,
+    "key": "C Major",
+    "updated_at": "1775670038.5120473"
 }
