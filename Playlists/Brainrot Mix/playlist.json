@@ -1,0 +1,16 @@
+{
+  "id": "Brainrot Mix",
+  "name": "Brainrot Mix",
+  "description": "The ultimate Italian Brainrot playlist — pure chaos, pure fun.",
+  "coverImage": null,
+  "songs": [
+    {
+      "id": "AUR_ITAL_SODAP_M4XK9Z",
+      "title": "Soda Pop Brainrot Version",
+      "artist": "Italian Brainrot",
+      "albumImage": "https://raw.githubusercontent.com/cringsimulator-a11y/Mp3Player/main/Songs/Italian Brainrot/Soda Pop Brainrot Version/cover.jpg",
+      "ghPath": "Songs/Italian Brainrot/Soda Pop Brainrot Version/Soda Pop Brainrot Version.mp3",
+      "duration": 70
+    }
+  ]
+}
